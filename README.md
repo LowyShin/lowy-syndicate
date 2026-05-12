@@ -1,10 +1,14 @@
 # Lowy Syndicate
 
+[English](README.md) | [한국어](README-ko.md) | [日本語](README-ja.md)
+
 Building Generational Wealth Through Trusted Alliances
 
 Overview
 
 Lowy Syndicate is a private alliance designed for individuals who have already achieved a meaningful level of wealth and influence, and who seek to preserve, expand, and transfer that value across generations.
+
+**Above all, the most important core of this organization lies in passing down the 'time' you have accumulated over a lifetime directly to the next generation, going beyond the mere transfer of assets.**
 
 The organization exists not merely as a network, but as a long-term strategic framework for:
 
